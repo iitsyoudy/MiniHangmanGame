@@ -1,0 +1,2 @@
+# MiniHangmanGame
+MiniHangmanGame using C++
